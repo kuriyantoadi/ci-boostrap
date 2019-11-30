@@ -14,6 +14,7 @@ Menghubungkan CI dan Boostrap
   <br>`$autoload['helper'] = array('');`
   <br>Edit :
   <br>`autoload['helper'] = array('url');`
+  
 **4. application/view/welcome_message.php ganti semua ini dengan syntax berikut**
     <br>`<!DOCTYPE html>
     <html lang="en">
